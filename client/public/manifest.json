@@ -1,0 +1,11 @@
+{
+  "name": "Helix Forge Portal",
+  "short_name": "Helix Forge",
+  "description": "An offline-ready DMD gene informatics workspace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070713",
+  "theme_color": "#0b0a1a",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
